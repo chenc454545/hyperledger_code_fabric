@@ -8,6 +8,7 @@ configtxgen 工具是一个很重要的离线辅助工具，它的主要功能�
 默认情况下，configtxgen 工具会依次尝试从 `$FABRIC_CFG_PATH` 环境变量指定的路径，当前路径和 `/etc/hyperledger/fabric` 路径下查找 configtx.yaml 配置文件并读入。
 
 main.go 文件为入口。
+chenc454545
 
 核心代码十分简单：
 
